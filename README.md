@@ -72,7 +72,7 @@ Bu proje, kişisel veya küçük işletme muhasebe işlemlerini takip etmek içi
 ## Proje Yapısı
 
 
-
+```
 MuhasebeTakip/
 ├── Models/
 │   ├── Islem.cs              # Temel işlem sınıfı
@@ -86,7 +86,7 @@ MuhasebeTakip/
 │   ├── AnaForm.cs            # Ana form
 │   └── Form1.cs              # Form1
 └── Program.cs                # Uygulama giriş noktası
-
+```
 
 
 ## OOP Prensipleri
